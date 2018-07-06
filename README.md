@@ -1,5 +1,5 @@
 # Title
-Anita's fine Dishes
+Anita's Kitchen
 ## Author
 Yvonne Ouma
 ## Description
