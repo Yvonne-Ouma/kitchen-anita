@@ -141,9 +141,6 @@ i {
   padding-bottom: 80px;
   color:white;
 }
-#main2{
-  padding: 0;
-}
 #menu{
   padding:50px;
 }
@@ -157,6 +154,7 @@ i {
 .main2{
   text-align: center;
   background-color: #F15A29;
+  padding-top: 10px;
 }
 .main2>p{
   padding: 20px;
