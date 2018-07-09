@@ -141,8 +141,15 @@ i {
   padding-bottom: 80px;
   color:white;
 }
+#main2{
+  padding: 0;
+}
+#menu{
+  padding:50px;
+}
 #menu>h3{
   color:red;
+
 }
 #customers123>h3{
   color:red;
