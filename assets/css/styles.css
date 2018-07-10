@@ -2,9 +2,11 @@
   background-color:#F15A29;
   padding-bottom: 30px;
   padding-left: 10px;
+  font-family: 'cormorant Garamond';
 }
 #happyhour{
   padding-bottom: 25px;
+  font-family: 'cormorant Garamond';
 
 }
 #mydrink2{
@@ -51,6 +53,7 @@
   padding-top: 60px;
   padding-bottom: 60px;
   color:white;
+  font-family: 'cormorant Garamond';
 }
  #lunch{
   background-image:url("../../images/foodtop/lunch.jpg");
@@ -58,6 +61,7 @@
   padding-top: 60px;
   padding-bottom: 60px;
   color:white;
+  font-family: 'cormorant Garamond';
 }
 #dinner{
   background-image: url("../../images/foodtop/dinner.jpg");
@@ -66,6 +70,7 @@
   padding-bottom: 60px;
   color:white;
   padding-right: 0;
+  font-family: 'cormorant Garamond';
 }
 .food{
   padding:40px;
