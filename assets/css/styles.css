@@ -2,33 +2,37 @@
   background-color:#F15A29;
   padding-bottom: 30px;
   padding-left: 10px;
-  font-family: 'cormorant Garamond';
 }
 #happyhour{
   padding-bottom: 25px;
   font-family: 'cormorant Garamond';
-
 }
 #mydrink2{
-  width: 51%;
-  padding: 0;
-  border: 10px solid #E0E0E0;
-  border-left: 0;
-  /* border-right: 20px; */
-  /* width-right:13px; */
-  margin: 0;
+ margin: auto;
+ border-style: solid;
+ border-width: 20px;
+ box-shadow: 0 5px 10px 5px #F2F2F2;
+ border-color: white;
+ margin-top: 3em;
+
 }
 #mydrink1{
-  width: 49%;
-  padding-left: 0;
-  border: 10px solid #E0E0E0;
-  margin: 0;
+  margin: auto;
+ border-style: solid;
+ border-width: 20px;
+ box-shadow: 0 0 10px 10px #F2F2F2;
+ border-color: white;
+ margin-top: 3em;
+ padding-left: 3px;
+
 }
 #myfastfoods{
-  width: 47.3%;
-  padding: 0;
-  border: 10px solid #E0E0E0;
-  margin: 0;
+ margin: auto;
+ border-style: solid;
+ border-width: 20px;
+ box-shadow: 0 0 10px 10px #F2F2F2;
+ border-color: white;
+ margin-top: 3em;
 }
 #image {
   background-image: url("../../images/backgrounds/landing.jpg");
@@ -54,6 +58,7 @@
   padding-bottom: 60px;
   color:white;
   font-family: 'cormorant Garamond';
+
 }
  #lunch{
   background-image:url("../../images/foodtop/lunch.jpg");
@@ -61,7 +66,6 @@
   padding-top: 60px;
   padding-bottom: 60px;
   color:white;
-  font-family: 'cormorant Garamond';
 }
 #dinner{
   background-image: url("../../images/foodtop/dinner.jpg");
@@ -70,7 +74,6 @@
   padding-bottom: 60px;
   color:white;
   padding-right: 0;
-  font-family: 'cormorant Garamond';
 }
 .food{
   padding:40px;
@@ -104,6 +107,13 @@
 #customers{
   background-color:white;
   text-align: center;
+  margin: auto;
+ border-style: solid;
+ border-width: 20px;
+ box-shadow: 0 0 10px 10px #F2F2F2;
+ border-color: white;
+ margin-top: 3em;
+
 }
 i {
     border: solid red;
@@ -123,9 +133,6 @@ i {
 }
 #customers123{
   border-top:none;
-  border-bottom: 5px solid #E0E0E0;
-  padding: 10px;
-  box-shadow: 2px 2px;
   text-align: center;
 }
 #dnk{
