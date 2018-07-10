@@ -37,6 +37,7 @@
 }
 #image {
   background-image: url("../../images/backgrounds/landing.jpg");
+  position: static;
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 50px;
@@ -84,7 +85,8 @@
   font-family: 'cormorant Garamond';
 }
 .food{
-  padding:40px;
+  padding:40px 0 0 0;
+
 }
 #drinks{
   padding:30px;
